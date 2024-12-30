@@ -1,7 +1,7 @@
 
 import axios from 'axios';
-const DEPLOYED = "https://ecommerce-spring-backend-production.up.railway.app";
-const LOCALHOST='http://localhost:5454'
+const DEPLOYED = "https://ecommerce-spring-backend-production.up.railway.ap";
+// const LOCALHOST='http://localhost:5454'
 
 export const API_BASE_URL = DEPLOYED
 
